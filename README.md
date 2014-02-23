@@ -12,3 +12,7 @@ This project is by no means meant to be a compete exploration of the
 functionality available. It will be up to the code user to explore
 the ACeDB saceclient interface (refs. below) to fully exploit the
 system.
+
+
+This software is © Kemin Zhou and Pól Ua Laoínecháin (2014) and
+distributed under the Affero GPL V3.
